@@ -1,19 +1,4 @@
-name: "sam minkler navajo dine'  photography"
-favicon: null
-layout_spectrum: 0.8217794422525913
 typography_spectrum: 0.5069239898584783
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -25,4 +10,20 @@ color:
   lightness: 0.020949373487383127
   saturation: 0.556462645996362
   rhythmicContrast: 0.15409745555371046
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.8217794422525913
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: sam minkler navajo dine'  photography
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Sam Minkler
 purpose: []
